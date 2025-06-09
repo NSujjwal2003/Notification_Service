@@ -1,0 +1,10 @@
+const SEAT_TYPE = {
+    BUSINESS: 'BUSINESS',
+    ECONOMY: 'ECONOMY',
+    PREMIUM_ECONOMY: 'PREMIUM_ECONOMY',
+    FIRST_CLASS: 'FIRST_CLASS',
+}
+
+module.exports = {
+    SEAT_TYPE,
+}
